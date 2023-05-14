@@ -1,7 +1,0 @@
-*.class
-*.png
-/bin
-/test-output
-/build/release
-*.log
-chromedriver.log
